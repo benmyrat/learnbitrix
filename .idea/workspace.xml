@@ -29,6 +29,8 @@
     <property name="WebServerToolWindowPanel.toolwindow.show.date" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.permissions" value="false" />
     <property name="WebServerToolWindowPanel.toolwindow.show.size" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../lb" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="web-ide.project.structure" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
@@ -41,7 +43,7 @@
       <option name="presentableId" value="Default" />
       <updated>1601470416748</updated>
       <workItem from="1601470417907" duration="6116000" />
-      <workItem from="1601541607601" duration="8164000" />
+      <workItem from="1601541607601" duration="8809000" />
     </task>
     <servers />
   </component>
@@ -53,6 +55,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="552" y="178" key="#Deployment/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601470819039" />
+    <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1601559118009">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="261" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601559118009" />
+    <state x="778" y="437" key="Github.CreateGistDialog" timestamp="1601559004345">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="778" y="437" key="Github.CreateGistDialog/-1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1601559004345" />
     <state x="794" y="439" key="NewPhpFileDialog" timestamp="1601550146228">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
